@@ -55,7 +55,7 @@ python main.py
 
 ## Технологии
 
-Python 3.11.0, Pandas, Matplotlib, SQLite3
+Python 3.11.0 (Pandas, Matplotlib, SQLite3)
 
 
 ## Авторы
