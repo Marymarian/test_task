@@ -1,7 +1,9 @@
+from pathlib import Path
 from core import load_sql
 
 
+filename = Path("sources", "working-pf-data1.xlsx")
+
 """Функции загрузки в БД подается загружаемый файл."""
 
-filename = "working-pf-data.xlsx"
 load_sql(filename)
